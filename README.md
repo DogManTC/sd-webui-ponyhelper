@@ -23,7 +23,7 @@ To install the Ponyhelper extension, follow these steps:
 3. Paste the repository URL into the "URL for extension's git repository" field:
 
    ```
-   https://github.com/DOGMANTC/sd-webui-ponyhelper.git
+   https://github.com/DogManTC/sd-webui-ponyhelper.git
    ```
 
 4. Press the Install button. Wait a few seconds for the extension to finish installing.
